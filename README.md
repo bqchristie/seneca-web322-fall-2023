@@ -4,7 +4,7 @@
 ## Assignments (50%)
 
 |   | Due Date  | Weight|
-|---|---|
+|---|---|--|
 | [Assignent One](./assignments/assignment-one.md)  |  Sep 15, 2023 ||
 | Assignment Two  |   ||
 | Assignment Three |   ||
@@ -19,7 +19,7 @@ The tests will cover material in [this text](https://webprogrammingtoolsandframe
 
 
 | Topic  | Test Date  | Weight |
-|---|---|
+|---|---|--|
 | Quiz One  |   |10%|
 | Quiz Two  |   |10%|
 | Quiz Three  |   |10%|
