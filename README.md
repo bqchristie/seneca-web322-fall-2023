@@ -6,10 +6,10 @@
 |   | Due Date  | Weight|
 |---|---|--|
 | [Assignent One](./assignments/assignment-one.md)  |  Sep 15, 2023 ||
-| Assignment Two  |   ||
-| Assignment Three |   ||
-| Assignment Four |   ||
-| Assignment Five |   ||
+| Assignment Two  | Oct 6, 2023  ||
+| Assignment Three |  Oct 27, 2023 ||
+| Assignment Four | Nov 27, 2023  ||
+| Assignment Five | Dec 8, 2023  ||
 
 
 ## Quizzes (50%)
@@ -20,12 +20,12 @@ The tests will cover material in [this text](https://webprogrammingtoolsandframe
 
 | Topic  | Test Date  | Weight |
 |---|---|--|
-| Quiz One  |   |10%|
-| Quiz Two  |   |10%|
-| Quiz Three  |   |10%|
-| Quiz Four  |   |10%|
-| Quiz Five  |   |10%|
-| Quiz Six  |   |10%|
+| Quiz One  |  Sep 21, 2023 |10%|
+| Quiz Two  |  Oct 5, 2023 |10%|
+| Quiz Three  | Oct 26, 2023 |10%|
+| Quiz Four  |  Nov 9, 2023 |10%|
+| Quiz Five  |  Nov 23, 2023 |10%|
+| Quiz Six  |  Dec 7, 2023 |10%|
 
 
 ***NOTE: We will only count your top 5 test results.***
