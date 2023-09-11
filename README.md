@@ -5,11 +5,11 @@
 
 |   | Due Date  | Weight|
 |---|---|--|
-| [Assignent One](./assignments/assignment-one.md)  |  Sep 15, 2023 ||
-| Assignment Two  | Oct 6, 2023  ||
-| Assignment Three |  Oct 27, 2023 ||
-| Assignment Four | Nov 27, 2023  ||
-| Assignment Five | Dec 8, 2023  ||
+| [Assignent One](./assignments/assignment-one.md)  |  Sep 15, 2023 |10%|
+| Assignment Two  | Oct 6, 2023  |10%|
+| Assignment Three |  Oct 27, 2023 |10%|
+| Assignment Four | Nov 27, 2023  |10%|
+| Assignment Five | Dec 8, 2023  |10%|
 
 
 ## Quizzes (50%)
