@@ -1,5 +1,17 @@
 # seneca-web322-fall20233
 
+## Class Notes
+Each week I will try to add some notes on what we covered in class/lab and provide sample code where neccesary.
+
+* [Week-One](./notes/week-one/README.md)
+* Week-Two
+* Week-Three
+* Week-Four
+* Week-Five
+* Week-Six
+* Week-Seven
+...
+
 
 ## Assignments (50%)
 
