@@ -1,5 +1,5 @@
 # WEB322-Assignment One
-## Traffic Lightt 
+## Traffic Light 
 
 ### Due Date: September 15, 2023
 
@@ -12,15 +12,14 @@
   * setInterval
   * EventEmmitter
    
-These are all ways to manage asynchronous code.   If you need a review I have added some notes [here]().
+These are all ways to manage asynchronous code.   If you need a review I have added some notes and sample code[here](../notes/week-one/README.md).
 
 For the first assignment we will put these concepts together in a simple application.
 
 #### NOTE
-We will also put Git/Github to use here.  This is not part of the course material but is a fundamental skill for web development.   
+We will also put Git/Github to use here.  This is not part of this weeks course material but is a fundamental skill for web development.   
 
 I will provide all the instructon you need.  In class on Tuesday I will go over it in detail.
-
 
 With the repository in place you won't need to submit anything.  I will simply clone your repository and run from my machine.
 
@@ -40,10 +39,9 @@ Create a simple Node.js program that simulates a basic traffic light using the c
 
 ### Pre-requisites
 
-1. Create a Github respoitory name WEB322-[firstName]-[lastName].   For example mine
-will be WEB322-Bruce-Christie.   (If you name is very long please feel free to abbreviate as long as it is obvious who you are).
+1. Create a Github respoitory name WEB322-[firstName]-[lastName].   For example mine will be WEB322-Bruce-Christie.   (If your name is very long please feel free to abbreviate as long as it is obvious who you are).
 
-2. Create a branch of the repositpory called "assignment-one"
+2. Create a branch of the repositpory called "assgn-one"
 
 3. Create a file called ```index.js``` where you will write all your code.
 
