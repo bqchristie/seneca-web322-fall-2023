@@ -1,5 +1,12 @@
 // Arrow functions
 
+const speak = message => console.log(message)
+
+const numbers = [1, 2, 3, 4, 5]
+
+// numbers.forEach(speak)
+
+
 
 // Lexical This
 
@@ -17,6 +24,10 @@ const robot1 = {
     color: 'Silver',
     noise: 'Beep',
 }
+
+const robot2 = { ...robot1, name: 'Jill' };
+
+console.log(robot2);
 
 
 
