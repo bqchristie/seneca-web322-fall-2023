@@ -13,9 +13,13 @@ git checkout -b assignment-1
 git push --set-upstream origin assignment-1
 ```
 
+After this you will hava repo with a branch named assignment-1 (verify from github). We will do all of the assignment one work in here. At the end of the week we will merge bakc to the main branch.
 
-After this you will hava repo with a branch named assignment-1 (verify from github).    We will do all of the assignment one work in here.  At the end of the week we will merge bakc to the main branch.
+...if you want to use an IDE for Git I recommend
 
+[Github Desktop](https://desktop.github.com/)
+or
+[SourceTree](https://www.sourcetreeapp.com/)
 
 ## Object Oriented Javascript
 
@@ -27,7 +31,7 @@ In JavaScript, object literal notation is a way to create objects using a curly 
 var person = {
   name: "John",
   age: 30,
-  isStudent: false
+  isStudent: false,
 };
 ```
 
@@ -38,12 +42,9 @@ In this example:
 - `name`, `age`, and `isStudent` are the keys (also known as properties or attributes).
 - "John," 30, and `false` are the corresponding values.
 
-
 ### Classes
 
-Object literal notation gives us a simple way to create individual objects with their own unique structure.  Classes provide a blueprint for creating multiple objects with a shared structure and behavior. Classes are typically more suitable for larger, more complex applications where you want to reuse and organize your code effectively.
-
-
+Object literal notation gives us a simple way to create individual objects with their own unique structure. Classes provide a blueprint for creating multiple objects with a shared structure and behavior. Classes are typically more suitable for larger, more complex applications where you want to reuse and organize your code effectively.
 
 Blueprint: Classes are like blueprints for creating objects. They define a template with properties and methods, and you can create multiple objects based on this template.
 
@@ -53,11 +54,9 @@ Reusability: You can create multiple objects of the same class, and they will al
 
 Private properties and methods use # to denote their privacy.
 
-
 #### Inheritance
 
 So, inheritance in JavaScript allows you to create new objects (like our robots) that inherit properties and methods from existing objects, making it easy to reuse code and add extra functionality when needed. It's like building on top of a basic toy robot to create a more advanced one.
-
 
 #### Lexical this
 
