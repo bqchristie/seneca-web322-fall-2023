@@ -17,23 +17,10 @@ const robot1 = {
 }
 
 
+const robot2 = {...robot1, name:'Ted'}
+
+console.log(robot2)
 
 
 
-
-/**
- * Strings
- * 
- * Template Literals 
- *  
- */
-
-
-/**
- * Errors
- * try/catch/finally
- * throw Error
- * 
- * 
- */
 

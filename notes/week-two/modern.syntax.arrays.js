@@ -77,16 +77,52 @@ const users = [
 
 
 // For Loop - log names
+for(const user of users) {
+  // console.log(user.firstName)
+}
 
 // For Each - log names 
+users.forEach((user)=>{
+  // console.log(user.firstName)
+})
 
 // Filter - log female names
+const females = users.filter((user)=>{
+   return user.gender == 'Female'
+ })
+
+// console.log(females)
+
 
 // Map - get a list of only full names
+const fullNames = users.map((user)=>{
+  const obj= {
+    firstName: user.firstName,
+    lastName:user.lastName,
+    hasGraduated: true
+  }
+  return obj;
+})
 
-// Reduce - return a total of all ages
+// console.log(fullNames)
+
+
+// Wes Bos - array cardio
+
+// Reduce - return a total of all ages - accumulator
+const ageTotal = users.reduce((acc, user)=>{
+  acc.totalCount = acc.totalCount + user.age
+  return acc;
+}, {totalCount:0})
+
+console.log(ageTotal) 
 
 // Desctructure - show first Two users
 
+
+
 // Spread - copy the array, then copy while adding a new user
+const usersV2 = [...users, {firstName:'Danny'}]
+
+console.log(usersV2)
 

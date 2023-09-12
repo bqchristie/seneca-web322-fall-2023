@@ -18,4 +18,32 @@
  * 6. call super
  */ 
 
+class Car {
+    constructor(color='green', engine, isCertified = false) {
+        this.color = color
+        this.engine = engine    
+        this.certified = isCertified
+    }
+    makeNoise() {
+        console.log('Vroom')
+    }
+}
 
+
+class Truck extends Car{}
+class Bus extends Car{
+    constructor(color, engine, isCertified, passengers) {
+       super(color, engine, isCertified)
+       this.passengers = passengers     
+    }
+    makeNoise() {
+        console.log("boppm")
+    }
+
+};
+
+let myCar = new Truck('green','V8')
+let myOtherCar = new Bus('red','V4', true, 30)
+
+console.log(myCar.makeNoise())
+console.log(myOtherCar.makeNoise())

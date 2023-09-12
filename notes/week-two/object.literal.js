@@ -16,11 +16,34 @@
  * 
  */
 
+this.message = "Hello"
+
+const person = {
+    firstName: "Bruce",
+    lastName: "Christie",
+    sayFullname: function() {
+        return this.firstName + this.lastName
+    },
+}
 
 
+console.log(person.sayFullname());
+console.log(Object.keys(person))
+
+console.log(person.firstName)
+console.log(person['firstName'])
 
 
+const handlers = {
+    onclick: ()=>{
 
+    },
+    onBlur: ()=>{
+
+    }
+}
+
+handlers['onBlur']()
 
 
 
