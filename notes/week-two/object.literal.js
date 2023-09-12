@@ -12,9 +12,15 @@
  * 2. add properties
  * 3. add method with function
  * 4. add method with this
- * 5. use as a way to organize code
+ * 6. access properties with []
  * 
  */
+
+
+
+
+
+
 
 
 
