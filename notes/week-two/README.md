@@ -1,5 +1,11 @@
 # Week Two Notes
 
+[Recording of lecture](https://seneca-my.sharepoint.com/:v:/g/personal/abhay-mahendera_myseneca_ca/EZ8H5td7JgFNjOtbpZNpH6QBnerU8CgddhLnNuIqoiTVag?e=pS9whZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Any one who wants some extra training on Arrays check out [Wes Bos Array Cardio](https://wesbos.com/javascript/08-data-types/48-array-cardio-callback-methods-and-function-generation).
+
+Also poke around his site and check out his podcast. He is an amazing instructor.
+
 ## Steps for setting up Git
 
 1. Make sure you have a github account
