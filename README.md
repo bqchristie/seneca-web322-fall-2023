@@ -4,8 +4,8 @@
 
 Each week I will try to add some notes on what we covered in class/lab and provide sample code where neccesary.
 
-- [Week-One](./notes/week-one/README.md)
-- [Week-Two](./notes/week-two/README.md)
+- Week One - [notes](./notes/week-one/README.md)
+- Week Two - [notes](./notes/week-two/README.md) - [video](<(./notes/week-one/README.md)>)
 - Week-Three
 - Week-Four
 - Week-Five
