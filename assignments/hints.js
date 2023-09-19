@@ -20,13 +20,12 @@ let colorIdx = 0
 function changeColor() {
     const light = console.log(lights[0].color)
     console.log(lights[colorIdx].color)
-    colorIdx++
-
-    if(colorIdx==3) {
-        colorIdx = 0;
-    }
-    changeColor()
-}
+    
+/
+//     // if(colorIdx==3) {
+//     //     colorIdx = 0;
+//     // }
+// }
 
 
 // setInterval ot setTimeout

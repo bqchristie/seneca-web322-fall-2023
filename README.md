@@ -37,3 +37,9 @@ The tests will cover material in [this text](https://webprogrammingtoolsandframe
 | Quiz Six   | Dec 7, 2023  | 10%    |
 
 **_NOTE: We will only count your top 5 test results._**
+
+Git Notes:
+
+All assignments will be submitted via Github. The basic flow looks like this.
+
+![Project FLow in Git](git-project-flow.png)
