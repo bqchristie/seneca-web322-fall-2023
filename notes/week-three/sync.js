@@ -16,11 +16,14 @@
 
 */
 
-const A_LONG_TIME = 9000000000;
-
 // Sync example
 
-function longRunningTask() {}
+function longRunningTask() {
+  setTimeout(() => {
+    console.log("working");
+  }, 3000);
+}
+
 console.log("start");
 longRunningTask();
 console.log("end");

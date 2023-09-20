@@ -1,6 +1,6 @@
 // Simulated asynchronous functions that return Promises
 function fetchData() {
-  return new Promise((resolve) => {
+  return new Promise((resolve, reject) => {
     setTimeout(() => {
       const data = { message: "Data fetched successfully!" };
       resolve(data);
@@ -27,14 +27,16 @@ function logProcessedData(processedData) {
 }
 
 async function main() {
-  const data = await fetchData();
-  console.log(data);
-
-  const processedData = await processFetchedData(data);
-  console.log(processedData);
-
-  await logProcessedData(processedData);
-  console.log("done");
+  try {
+    const data = await fetchData();
+    console.log(data);
+    const processedData = await processFetchedData(data);
+    console.log(processedData);
+    await logProcessedData(processedData);
+    console.log("done");
+  } catch (error) {
+    console.log(error);
+  }
 }
 
 main();

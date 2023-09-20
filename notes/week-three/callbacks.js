@@ -9,23 +9,28 @@
 
 // Lets look at two functions that need to run in a certain sequence.
 
-function authenticate(userId, callback) {
+function authenticateAndGet(userId, junk) {
   //assume this takes a while
   setTimeout(() => {
-    callback(userId === 1);
+    console.log("Authenticating");
+    const authenticated = userId === 1;
+    if (authenticated) junk();
+    else throw Error("User is not authenticated");
   }, 2000);
 }
 
-function getNumberData(isAuthenicated) {
-  if (!isAuthenicated) throw Error("You are not authorized");
-  console.log([1, 2, 3, 4, 5]);
+function getNumberData() {
+  const data = [1, 2, 3];
+  console.log(data);
 }
 
-function getAlphaData(isAuthenicated) {
-  if (!isAuthenicated) throw Error("You are not authorized");
-  console.log(["A", "B", "C", "D"]);
+function getAlphaData() {
+  const data = ["A", "B", "C"];
+  console.log(data);
 }
 
-// Application
-authenticate(1, getNumberData);
-authenticate(1, getAlphaData);
+// // Application
+// const isAuthenicated = authenticate(1);
+
+authenticateAndGet(1, getNumberData);
+authenticateAndGet(1, getAlphaData);
