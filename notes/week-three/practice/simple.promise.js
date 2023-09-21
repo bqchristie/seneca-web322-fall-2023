@@ -32,10 +32,6 @@ function getRecipe() {
   // function.  That function will receive two functions as parameters: resolve, reject.
   // write the callbaclk function so that it executes after a 2 second delay.
   // HINTS:
-  // - const foundGift = Math.random() < 0.5; // 50% chance of finding a gift
+  // - const foundRecipe = Math.random() < 0.5; // 50% chance of finding a recipe
   // - you can make the method async by adding setTimout
 }
-
-// Now call  getMessage
-
-console.log("Promise is pending");
