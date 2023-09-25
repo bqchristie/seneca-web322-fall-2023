@@ -18,8 +18,8 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 |                                                  | Due Date     | Weight |
 | ------------------------------------------------ | ------------ | ------ |
 | [Assignent One](./assignments/assignment-one.md) | Sep 18, 2023 | 10%    |
-| Assignment Two                                   | Oct 6, 2023  | 10%    |
-| Assignment Three                                 | Oct 27, 2023 | 10%    |
+| Assignment Two                                   | Oct 13, 2023 | 10%    |
+| Assignment Three                                 | Nov 3, 2023  | 10%    |
 | Assignment Four                                  | Nov 27, 2023 | 10%    |
 | Assignment Five                                  | Dec 8, 2023  | 10%    |
 
@@ -31,7 +31,7 @@ The tests will cover material in [this text](https://webprogrammingtoolsandframe
 | ---------- | ------------ | ------ |
 | Quiz One   | Sep 21, 2023 | 10%    |
 | Quiz Two   | Oct 5, 2023  | 10%    |
-| Quiz Three | Oct 26, 2023 | 10%    |
+| Quiz Three | Oct 19, 2023 | 10%    |
 | Quiz Four  | Nov 9, 2023  | 10%    |
 | Quiz Five  | Nov 23, 2023 | 10%    |
 | Quiz Six   | Dec 7, 2023  | 10%    |
