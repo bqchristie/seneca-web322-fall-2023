@@ -29,4 +29,6 @@ function logProcessedData(processedData) {
   });
 }
 
-fetchData().then(processFetchedData).then(logProcessedData);
+fetchData()
+.then(processFetchedData)
+.then(logProcessedData);
