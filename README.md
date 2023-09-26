@@ -43,3 +43,11 @@ Git Notes:
 All assignments will be submitted via Github. The basic flow looks like this.
 
 ![Project FLow in Git](git-project-flow.png)
+
+## Extra Practice Reading Watching
+
+[Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+
+[10 JavaScript Projects in 10 Hours - Coding Challenge ](https://twitter.com/mdjunaidap/status/1706229900229677086?s=51&t=5_rmBNfqsZ5wjgRNWwrNEg)
+
+[Wed Bos - Javascript 30](https://javascript30.com/)
