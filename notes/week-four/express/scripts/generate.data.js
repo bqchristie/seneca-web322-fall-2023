@@ -2,8 +2,9 @@ const fs = require("fs");
 const { faker } = require("@faker-js/faker");
 
 // Function to generate a fake user
-function generateUser() {
+function generateUser(id) {
   return {
+    id,
     firstName: faker.person.firstName(),
     lastName: faker.person.lastName(),
     email: faker.internet.email(),
@@ -16,7 +17,7 @@ function generateUser() {
 function generateUsers(count) {
   const users = [];
   for (let i = 0; i < count; i++) {
-    users.push(generateUser());
+    users.push(generateUser(i));
   }
   return users;
 }
@@ -28,7 +29,7 @@ const numberOfUsers = 25; // Change this as needed
 const userList = generateUsers(numberOfUsers);
 
 // Write the list of users to a JSON file
-const jsonFileName = "../data/fakeUsers.json";
+const jsonFileName = "./data/fakeUsers.json";
 fs.writeFileSync(jsonFileName, JSON.stringify(userList, null, 2));
 
 console.log(

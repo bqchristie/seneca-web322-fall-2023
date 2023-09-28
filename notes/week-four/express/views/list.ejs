@@ -1,17 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>List EJS</h1>
-    <ul>
+    <h2>List EJS</h2>
+
+    <!-- <div>
+      <pre><code>
+        <%= JSON.stringify(users, null,2) %>
+      </code></pre>
+    </div> -->
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">First</th>
+          <th scope="col">Last</th>
+          <th scope="col">Handle</th>
+        </tr>
+      </thead>
+      <tbody>
         <% users.forEach(function(user){ %>
-          <li><%= user.name %></li>
+          <tr onClick="gotoDetail(<%= user.id %>)">
+            <td><%= user.id %></td>
+            <td><%= user.firstName %></td>
+            <td><%= user.lastName %></td>
+            <td><%= user.email %></td>
+          </tr>
         <% }); %>
-      </ul>
+    
+      </tbody>
+    </table>
+
       
-</body>
-</html>
+<script>
+  function gotoDetail(id) {
+    console.log(id);
+    window.location.href = `/detail/${id}`
+  }
+</script>

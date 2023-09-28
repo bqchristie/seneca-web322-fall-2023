@@ -1,43 +1,29 @@
-/**
- * Why express if we can roll our own
- * Routing
- * Middleware
- * Template engines
- * Simplified Error handling
- * Static file serving
- * Perfornmace
- */
-
 const express = require("express");
+//const expressLayouts = require("express-ejs-layouts");
 
 const app = express();
 
+// app.use(expressLayouts);
+// app.set("layout", "./layouts/full-width");
 app.set("view engine", "ejs");
 
-app.use(express.static("public"));
+// app.use(express.static("public"));
 
 const port = 3000;
-
-const data = {
-  message: "Welcome to the app",
-  users: [
-    { id: 1, name: "Bruce" },
-    { id: 2, name: "Tara" },
-    { id: 3, name: "Rey" },
-  ],
-};
+const users = require("./data/fakeUsers.json");
 
 app.get("/", (req, res) => {
-  res.render("index", { message: data.message + new Date() });
+  res.render("index", { message: "Today is" + new Date() });
 });
 
 app.get("/list", (req, res) => {
-  res.render("list", { users: data.users });
+  res.render("list", { users });
 });
 
-app.get("/detail/:id", (req, res) => {
-  res.render("detail");
-});
+// app.get("/detail/:id", (req, res) => {
+//   const user = users.find((user) => user.id == req.params.id);
+//   res.render("detail", { user });
+// });
 
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
