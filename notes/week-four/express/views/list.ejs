@@ -5,7 +5,7 @@
         <%= JSON.stringify(users, null,2) %>
       </code></pre>
     </div> -->
-    <table class="table table-hover">
+    <!-- <table class="table table-hover">
       <thead>
         <tr>
           <th scope="col">#</th>
@@ -25,12 +25,14 @@
         <% }); %>
     
       </tbody>
-    </table>
-
-      
-<script>
+    </table> -->
+    <% users.forEach(function(user, idx){ %>
+        <div><%= user.firstName %></div>
+    <% }); %>
+    
+<!-- <script>
   function gotoDetail(id) {
     console.log(id);
     window.location.href = `/detail/${id}`
   }
-</script>
+</script> -->

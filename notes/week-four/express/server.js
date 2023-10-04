@@ -13,16 +13,18 @@ const port = 3000;
 const users = require("./data/fakeUsers.json");
 
 app.get("/", (req, res) => {
-  res.render("index", { message: "Today is" + new Date() });
+  res.render("index", { message: "hello" });
 });
 
 app.get("/list", (req, res) => {
   res.render("list", { users });
 });
 
-// app.get("/detail/:id", (req, res) => {
-//   const user = users.find((user) => user.id == req.params.id);
-//   res.render("detail", { user });
+//
+
+// app.get("/detail", (req, res) => {
+//   //   const user = users.find((user) => user.id == req.params.id);
+//   //   res.render("detail", { user });
 // });
 
 app.listen(port, () => {
