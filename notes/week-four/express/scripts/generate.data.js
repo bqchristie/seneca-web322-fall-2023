@@ -9,6 +9,9 @@ function generateUser(id) {
     lastName: faker.person.lastName(),
     email: faker.internet.email(),
     password: faker.internet.password(),
+    dob: faker.date.past(),
+    company: faker.company.name(),
+    phone: faker.phone.number(),
   };
   return {};
 }
@@ -23,7 +26,7 @@ function generateUsers(count) {
 }
 
 // Number of fake users to generate
-const numberOfUsers = 25; // Change this as needed
+const numberOfUsers = 1000; // Change this as needed
 
 // Generate the list of fake users
 const userList = generateUsers(numberOfUsers);

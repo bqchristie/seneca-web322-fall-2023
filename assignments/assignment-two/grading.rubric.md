@@ -10,27 +10,25 @@
 
 ## Functional Requirements (70 points)
 
-| Requirement                      | Points |     |
-| -------------------------------- | ------ | --- |
-| Authentication                   |        |     |
-| - Authentication system          | 5      |     |
-| - Login page                     | 5      |     |
-| - Successful login redirection   | 5      |     |
-| Paginated List View              |        |     |
-| - Display objects from JSON file | 5      |     |
-| - Pagination controls            | 5      |     |
-| - Configurable items per page    | 5      |     |
-| - Jump to specific page          | 5      |     |
-| Detail Page                      |        |     |
-| - Implement detail pages         | 5      |     |
-| - Display additional info        | 5      |     |
-| - Navigation to list view        | 5      |     |
-| Data Handling                    |        |     |
-| - Load data from JSON file       | 5      |     |
-| - Proper data formatting         | 5      |     |
-| User Experience                  |        |     |
-| - Feedback messages              | 5      |     |
-| - Error handling                 | 5      |     |
+| Requirement                                            | Points |     |
+| ------------------------------------------------------ | ------ | --- |
+| Authentication                                         |        |     |
+| - Login page (un/password & sumbmit(POST))             | 5      |     |
+| - Hanlde login with hard coded authentication          | 5      |     |
+| - Successful login redirection (redirect to list page) | 5      |     |
+| Paginated List or table View                           |        |     |
+| - Display objects from JSON file                       | 10     |     |
+| - Render objects is a list or table                    | 5      |     |
+| - Change the list endpoint so it returns only 25 users | 5      |     |
+| Detail Page                                            |        |     |
+| - Implement detail pages                               | 10     |     |
+| - Display additional info                              | 5      |     |
+| Data Handling                                          |        |     |
+| - Load data from JSON file                             | 5      |     |
+| - Proper data formatting                               | 5      |     |
+| Template and Navigation                                |        |     |
+| - All endpoints should be wrapped in a template        | 5      |     |
+| - There shoould be a common menu                       | 5      |     |
 
 ## Technical Implementation (20 points)
 
