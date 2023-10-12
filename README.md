@@ -9,7 +9,7 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 - Week-Three - [notes](./notes/week-three/README.md) -[video](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20230919%5F141840%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DWEB&referrerScenario=RecapOpenInStreamButton%2Eview%2Eview&ga=1)
 - Week-Four [notes](./notes/week-four/README.md) -[video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/Efb5eALPqb5Gt5Q47wfOlqsBCzQdkmKKtyJBRilDVxFAQw)
 - Week-Five [notes](./notes/week-five/README.md) - [video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZUnVkFsTh5AlCQN-i3t_0gB9Gia-i_5gOkAyxORUzbvxw)
-- Week-Six
+- Week-Six [notes](./notes/week-six/README.md) - [video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EXRj_uNEzypHmv3ao4m4DekBOPn9bLwwbwKXtS60A8sG1w)
 - Week-Seven
   ...
 
