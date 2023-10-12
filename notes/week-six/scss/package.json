@@ -1,16 +1,18 @@
 {
-  "name": "week-five",
+  "name": "scss",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --watch server.js"
+    "build-css": "node-sass scss -o public/css --watch"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0"
   }
 }
