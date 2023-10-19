@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="./main.css" rel="stylesheet"/>
+    <script>
+         
+         window.onload = (event) => {
+              loadUsers()
+         };
+    </script>
+</head>
+<body>
+    <h1>Single Page App</h1>
+    <div id="app">
+        <div>
+            <h2>User List (<span id="user-count"> </span>)</h2>
+            <ul id="user-list">
+            </ul> 
+        </div>
+        <div>
+            <h2>User Detail</h2>
+            <div id="user-detail">
+
+            </div>
+        </div>
+</div>
+    <script src="./index.js"></script>
+</body>
+</html>

@@ -41,16 +41,14 @@ app.get("/", (req, res) => {
 });
 
 app.post("/", (req, res) => {
-  res.send(`Logged in`);
+  res.redirect(`/list`);
 });
 
 app.get("/list", (req, res) => {
   const userListHtml = users.map((user) => {
     return `<li><a href="/detail/${user.id}">${user.name}</a></li>`;
   });
-
-  const content = `<ul>${userListHtml}</ul>`;
-
+  const content = `<ul>${userListHtml.join("")}</ul>`;
   const html = template("List", content);
   res.send(html);
 });
