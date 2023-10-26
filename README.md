@@ -19,7 +19,7 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 | ---------------------------------------------------------------- | ------------ | ------ |
 | [Assignent One](./assignments/assignment-one/assignment-one.md)  | Sep 18, 2023 | 10%    |
 | [Assignment Two](./assignments/assignment-two/assignment-two.md) | Oct 13, 2023 | 10%    |
-| Assignment Three                                                 | Nov 3, 2023  | 10%    |
+| Assignment Three                                                 | Nov 10, 2023 | 10%    |
 | Assignment Four                                                  | Nov 27, 2023 | 10%    |
 | Assignment Five                                                  | Dec 8, 2023  | 10%    |
 
