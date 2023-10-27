@@ -18,7 +18,8 @@
 
    - Some of you have already started doing this but the expectation is that all
      code route handling will be in one or more modules in a routes folder.
-   - CRUD operations will be moved
+   - CRUD operations will be moved to modules under a folder called models.  There will
+     be two models:  Users & Products  (products can be something else of your choosing if you wish)
 
 3. Create a new Router and add it to your express app with a mapping to "/api".
 
@@ -42,7 +43,7 @@
    - DELETE /api/products/:id => deletes a single user and returns JSON onbject with a success method
    - POST /api/products => Adds a user to the users array and returns new user as JSON
 
-6. Add a new login endpoiny
+6. Add a new login endpoint to the API
 
    - POST /api/login => Accepts email and password in body. - if the email exists in the array of users and the user isAdmin (look at the first user in fakeUsers.json) send back {message: "Logged In"} - if the user does not exsist send back status 401 with {message: "Authorization failed"}
 
