@@ -9,9 +9,15 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 - Week-Three - [notes](./notes/week-three/README.md) -[video](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20230919%5F141840%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DWEB&referrerScenario=RecapOpenInStreamButton%2Eview%2Eview&ga=1)
 - Week-Four [notes](./notes/week-four/README.md) -[video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/Efb5eALPqb5Gt5Q47wfOlqsBCzQdkmKKtyJBRilDVxFAQw)
 - Week-Five [notes](./notes/week-five/README.md) - [video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZUnVkFsTh5AlCQN-i3t_0gB9Gia-i_5gOkAyxORUzbvxw)
-- Week-Six [notes](./notes/week-six/README.md) - [video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EXRj_uNEzypHmv3ao4m4DekBOPn9bLwwbwKXtS60A8sG1w)
-- Week-Seven
-  ...
+- Week-Six [notes](./notes/week-six/README.md) - [video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EXRj_uNEzypHmv3ao4m4DekBOPn9bLwwbwKXtS60A8sG1w) - [video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EYzRa4yMK35DqbLetFfhirAB6P8iXkwPLi5SuptZ6jVapQ?e=CByGuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Week-Seven [notes](https://github.com/bqchristie/seneca-web322-fall-2023/blob/main/notes/week-seven/README.md)
+- Week-Eight [notes](https://github.com/bqchristie/seneca-web322-fall-2023/tree/main/notes/week-eight/README.md)
+
+  1. [video 1 - Cleaning up your Github repos (node_modules)](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EXvjCAbIijJJgH0UP05cRpsBxQ-DhpKH5T3SbMAITuLkcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Uii0Q4)
+  2. [video 2 - Refactoring routes into modules](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZ-EHbziedlBkj0KhvBzxYABb5HkXjrobZOBgHTVlwm_Ag?e=aF340f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  3. [video 3 - Introducing Service classes](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EW8ArJNn8YBCnYFddfWdJjQBvrDoAUsFM-uwp3MrpGfqFw?e=DMtU4x)
+  4. [video 4 - Assignment 3 Overview]()
+     ...
 
 ## Assignments (50%)
 
