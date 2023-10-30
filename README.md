@@ -16,7 +16,7 @@ Each week I will try to add some notes on what we covered in class/lab and provi
   1. [video 1 - Cleaning up your Github repos (node_modules)](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EXvjCAbIijJJgH0UP05cRpsBxQ-DhpKH5T3SbMAITuLkcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Uii0Q4)
   2. [video 2 - Refactoring routes into modules](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZ-EHbziedlBkj0KhvBzxYABb5HkXjrobZOBgHTVlwm_Ag?e=aF340f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
   3. [video 3 - Introducing Service classes](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EW8ArJNn8YBCnYFddfWdJjQBvrDoAUsFM-uwp3MrpGfqFw?e=DMtU4x)
-  4. [video 4 - Assignment 3 Overview]()
+  4. [video 4 - Assignment 3 Overview](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZZpzDeZyLxHos0akP_EAA0BoJJsdLN1KHxWBtvhNPRCjA?e=61nSv3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
      ...
 
 ## Assignments (50%)

@@ -8,7 +8,7 @@ This assignment leans heavily on the lectures recorded for week eight. You can f
 
 1.  Cleaning up existing project code so that we are prepared to cleanly swap in databases for upcoming assignmnets.
 2.  Demonstrate your ability to add REST endpoints with CRUD operations (create, read, update, delete)
-3.  Demonstrate your ability to use a rest endpoint from the client side.
+3.  Create service modules to handle business logic.
 
 **Requirements:**
 
