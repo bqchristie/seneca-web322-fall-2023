@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Types Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+
+        input,
+        select {
+            margin-top: 5px;
+        }
+
+        input[type="submit"] {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>HTML Input Types Demo</h1>
+        <form action="form-handler" method="post" enctype="multipart/form-data">
+            <fieldset >
+            <legend>Input Types:</legend>
+            <label for="text">Text:</label>
+            <input type="text" id="text" name="text" placeholder="enter something...">
+
+            <label for="text2">Text:</label>
+            <input type="text" id="text" name="text2" required>    
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password">
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+
+
+            <label for="number">Number(min 0 max 200):</label>
+            <input type="number" id="number" name="number" min="0" max="200">
+
+            
+            <label for="tel">Telephone:</label>
+            <input type="tel" id="tel" name="tel">
+
+            
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date">
+
+            <label for="time">Time:</label>
+            <input type="time" id="time" name="time">
+
+            <label for="range">Range:</label>
+            <input type="range" id="range" name="range" min="0" max="10">
+
+            <label for="color">Color:</label>
+            <input type="color" id="color" name="color">
+
+            <label for="hidden">Hidden:</label>
+            <input type="hidden" id="hidden" name="hidden" value="hidden_value">
+
+            <label for="checkbox">Checkbox:</label>
+            <input type="checkbox" id="checkbox" name="checkbox">
+
+            <label for="radio">Radio:</label>
+            <input type="radio" id="radio1" name="fruit" value="option1"> Apple
+            <input type="radio" id="radio2" name="fruit" value="option2"> Pear
+
+            <label for="dropdown">Dropdown:</label>
+            <select id="dropdown" name="dropdown">
+                <option value="option1">Option 1</option>
+                <option value="option2">Option 2</option>
+                <option value="option3">Option 3</option>
+            </select>
+
+            <label for="textarea">Textarea:</label>
+            <textarea id="textarea" name="textarea" rows="4" cols="50"></textarea>
+
+            <label for="file">File:</label>
+            <input type="file" id="file" name="file">
+            
+
+            </fieldset>        
+            <input type="submit" value="Submit"/>
+
+            </form>
+        </form>
+    </div>
+</body>
+
+</html>

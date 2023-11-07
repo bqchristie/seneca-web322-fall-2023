@@ -19,6 +19,8 @@ Each week I will try to add some notes on what we covered in class/lab and provi
   4. [video 4 - Assignment 3 Overview](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZZpzDeZyLxHos0akP_EAA0BoJJsdLN1KHxWBtvhNPRCjA?e=61nSv3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
      ...
 
+- Week nine - [notes](./notes/week-nine/README.md) - [video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZyD_0D0jkBIm4i37h_Tbd4BYZvV9BJ7oyVD9cJMWmBQDg)
+
 ## Assignments (50%)
 
 |                                                                        | Due Date     | Weight |
