@@ -7,7 +7,7 @@
 
 ---
 
-## Functional Requirements (70 points)
+## Functional Requirements (100 points)
 
 | Requirement                                           | Points |     |
 | ----------------------------------------------------- | ------ | --- |
@@ -29,4 +29,4 @@
 
 ## Total Score: [Total Score] / 100
 
-10 PT BONUS for addion relationships applied to any assignment.
+10 PT BONUS for adding relationships applied to any assignment.
