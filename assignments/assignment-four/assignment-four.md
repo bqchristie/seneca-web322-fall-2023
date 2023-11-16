@@ -15,7 +15,10 @@
    - refer to the instuctions in the course text
 
    [Postgres Realtional DB](https://webprogrammingtoolsandframeworks.sdds.ca/Relational-Database-Postgres/introduction-to-postgres)
-   [Mongo DB](https://webprogrammingtoolsandframeworks.sdds.ca/NoSQL-Database-MongoDB/introduction-to-mongodb)
+
+OR
+
+[Mongo DB](https://webprogrammingtoolsandframeworks.sdds.ca/NoSQL-Database-MongoDB/introduction-to-mongodb)
 
 2. **Create CRUD endpoints for our new class Order**
 
@@ -30,7 +33,7 @@
 
 5. **If doing sequelize** - Create sequelize Objects to model Users, Products and Orders.
 
-6. **If doing sequelize** - Create sequelize Objects to model Users, Products and Orders.
+6. **If doing mongo** - Create sequelize Objects to model Users, Products and Orders.
 
 7. In your service classes connnect your endpoints to the database objects.
 
