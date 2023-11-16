@@ -7,7 +7,7 @@
 
 ---
 
-## Functional Requirements (70 points)
+## Functional Requirements (100 points)
 
 | Requirement                                           | Points |     |
 | ----------------------------------------------------- | ------ | --- |
