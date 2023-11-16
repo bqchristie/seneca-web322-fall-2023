@@ -37,6 +37,11 @@ OR
 
 7. In your service classes connnect your endpoints to the database objects.
 
+BONUS create the realtionships between order, users and products so that when
+I look at a order it show the user and the product (not just id's).
+
+BONUS2 change the Users class so that it contains a list of the users orders. I should be able to this in the users/:id endpoint.
+
 8. **Code Quality:**
 
    - Write clean, well-organized, and commented code.
