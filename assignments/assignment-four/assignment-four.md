@@ -58,3 +58,7 @@ BONUS2 change the Users class so that it contains a list of the users orders. I 
 **Evaluation Criteria:**
 
 The assignment will be evaluated based on the original functionality as well as code quality, documentation, and adherence to the submission method using Git.
+
+## NOTE: If you want a fresh starting point for this assignment copy the code in the before folder from week-10 notes.
+
+[HERE](https://github.com/bqchristie/seneca-web322-fall-2023/tree/main/notes/week-ten/before)

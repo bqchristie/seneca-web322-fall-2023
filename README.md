@@ -23,6 +23,13 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 
 ## Assignments (50%)
 
+- Week Ten [notes](./notes/week-ten/README.md)
+  1. [video 1 - setting up neon db and pgAdmin](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F133130%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
+  2. [video 2- connecting db with sequelize and defining models](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F135929%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
+  3. [video 3 - creating data with sequlize](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F135929%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
+  4. [video 4 - hooking up api routes](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F143859%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
+  5. [video 5 - connecting services to db](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F145207%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
+
 |                                                                        | Due Date     | Weight |
 | ---------------------------------------------------------------------- | ------------ | ------ |
 | [Assignent One](./assignments/assignment-one/assignment-one.md)        | Sep 18, 2023 | 10%    |
