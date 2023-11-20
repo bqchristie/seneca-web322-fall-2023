@@ -20,15 +20,14 @@ Each week I will try to add some notes on what we covered in class/lab and provi
      ...
 
 - Week nine - [notes](./notes/week-nine/README.md) - [video](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZyD_0D0jkBIm4i37h_Tbd4BYZvV9BJ7oyVD9cJMWmBQDg)
-
-## Assignments (50%)
-
 - Week Ten [notes](./notes/week-ten/README.md)
   1. [video 1 - setting up neon db and pgAdmin](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F133130%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
   2. [video 2- connecting db with sequelize and defining models](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F135929%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
   3. [video 3 - creating data with sequlize](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F135929%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
   4. [video 4 - hooking up api routes](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F143859%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
   5. [video 5 - connecting services to db](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FWEB322%20%2D%20Online%20LEcture%2D20231114%5F145207%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
+
+## Assignments (50%)
 
 |                                                                        | Due Date     | Weight |
 | ---------------------------------------------------------------------- | ------------ | ------ |
@@ -55,9 +54,7 @@ The tests will cover material in [this text](https://webprogrammingtoolsandframe
 
 Git Notes:
 
-All assignments will be submitted via Github. The basic flow looks like this.
-
-![Project FLow in Git](git-project-flow.png)
+All assignments will be submitted via Github.
 
 ## Extra Practice Reading Watching
 
