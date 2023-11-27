@@ -40,7 +40,7 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 | [Assignent One](./assignments/assignment-one/assignment-one.md)                | Sep 18, 2023 | 10%    |
 | [Assignment Two](./assignments/assignment-two/assignment-two.md)               | Oct 13, 2023 | 10%    |
 | [Assignment Three](./assignments/assignment-three/assignment-three.md)         | Nov 10, 2023 | 10%    |
-| [Assignment Four](./assignments/assignment-four/assignment-four.md)            | Nov 27, 2023 | 10%    |
+| [Assignment Four](./assignments/assignment-four/assignment-four.md)            | Nov 30, 2023 | 10%    |
 | [Assignment Five- **DRAFT**](./assignments/assignment-five/assignment-five.md) | Dec 8, 2023  | 10%    |
 
 ## Quizzes (50%)
