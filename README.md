@@ -33,6 +33,20 @@ Each week I will try to add some notes on what we covered in class/lab and provi
   3. [video 3 - adding Mongo to a mode application with mongoose](https://teams.microsoft.com/_#/meetingrecap/19:meeting_YmQyZTNmNWUtZDcxNS00ZWUyLThlZGQtZjUyZDM1N2VhYjI0@thread.v2?ctx=chat)
   4. [video 4 - updating services to read and writw to Mongo DB](https://seneca-my.sharepoint.com/personal/bruce_christie_senecacollege_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbruce%5Fchristie%5Fsenecacollege%5Fca%2FDocuments%2FRecordings%2FMongo%20Into%2D20231121%5F172015%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1)
 
+- Week Twelve [notes](./notes/week-twelve/README.md)
+
+1. [video 1 - refactoring routes and adding products and orders](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EQHr420Kt3hFiDQUi4zoOhUBDPhBMx9ZCj5Bn6D6Jsz7Kg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cDajg0)
+
+2. [video 2 - normalizing data at a high level](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EVmwX5567utPjVeNUspf8hkBMbyG35MppzcMMJvWZChAYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=LknMfH)
+
+3. [video 3 - adding realtions to the orders](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/ERJwSUyf7MJFo856PuVG5_IBuskSMFSVHiyRmvnR3XbS5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=MrX1qU)
+
+4. [video 4 - relationships continued](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/ERJwSUyf7MJFo856PuVG5_IBuskSMFSVHiyRmvnR3XbS5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=B7rrBt)
+
+5. [video 5 - more realtionships](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EdT7dtnFSCtAgX87VPyXxD8ByGzArclxDSD_3BukzRVISw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ge4s4U)
+
+6. [video 6 - connecting your app to cyclic](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EeRKWWNxj_pNnTcTpCk-KpQBM_adY5hL_RdQsgYwpAYmHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=OCe57d)
+
 ## Assignments (50%)
 
 |                                                                                | Due Date     | Weight |

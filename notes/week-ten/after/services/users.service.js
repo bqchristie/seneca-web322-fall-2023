@@ -6,17 +6,20 @@ class UsersService {
   }
 
   static async findById(id) {
-    const user = await models.User.findByPk(id);
+    const user = await models.User.findOne({
+      where: { id },
+      include: [{ model: models.Order, as: "orders" }],
+    });
     return user;
   }
 
-  static async create(user) {
+  static async create(product) {
     return await models.User.create(user);
   }
 
-  static async update(user) {
-    let savedUser = await models.User.findByPk(user.id);
-    Object.assign(savedUser, user);
+  static async update(product) {
+    let savedUser = await models.User.findByPk(product.id);
+    Object.assign(savedUser, product);
     await savedUser.save();
     return savedUser;
   }
