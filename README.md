@@ -35,17 +35,17 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 
 - Week Twelve [notes](./notes/week-twelve/README.md)
 
-1. [video 1 - refactoring routes and adding products and orders](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EQHr420Kt3hFiDQUi4zoOhUBDPhBMx9ZCj5Bn6D6Jsz7Kg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cDajg0)
+  1. [video 1 - refactoring routes and adding products and orders](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EQHr420Kt3hFiDQUi4zoOhUBDPhBMx9ZCj5Bn6D6Jsz7Kg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cDajg0)
 
-2. [video 2 - normalizing data at a high level](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EVmwX5567utPjVeNUspf8hkBMbyG35MppzcMMJvWZChAYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=LknMfH)
+  2. [video 2 - normalizing data at a high level](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EVmwX5567utPjVeNUspf8hkBMbyG35MppzcMMJvWZChAYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=LknMfH)
 
-3. [video 3 - adding realtions to the orders](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/ERJwSUyf7MJFo856PuVG5_IBuskSMFSVHiyRmvnR3XbS5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=MrX1qU)
+  3. [video 3 - adding realtions to the orders](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/ERJwSUyf7MJFo856PuVG5_IBuskSMFSVHiyRmvnR3XbS5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=MrX1qU)
 
-4. [video 4 - relationships continued](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/ERJwSUyf7MJFo856PuVG5_IBuskSMFSVHiyRmvnR3XbS5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=B7rrBt)
+  4. [video 4 - relationships continued](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/ERJwSUyf7MJFo856PuVG5_IBuskSMFSVHiyRmvnR3XbS5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=B7rrBt)
 
-5. [video 5 - more realtionships](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EdT7dtnFSCtAgX87VPyXxD8ByGzArclxDSD_3BukzRVISw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ge4s4U)
+  5. [video 5 - more realtionships](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EdT7dtnFSCtAgX87VPyXxD8ByGzArclxDSD_3BukzRVISw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ge4s4U)
 
-6. [video 6 - connecting your app to cyclic](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EeRKWWNxj_pNnTcTpCk-KpQBM_adY5hL_RdQsgYwpAYmHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=OCe57d)
+  6. [video 6 - connecting your app to cyclic](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EeRKWWNxj_pNnTcTpCk-KpQBM_adY5hL_RdQsgYwpAYmHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=OCe57d)
 
 ## Assignments (50%)
 
