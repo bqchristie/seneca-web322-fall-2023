@@ -47,6 +47,10 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 
   6. [video 6 - connecting your app to cyclic](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EeRKWWNxj_pNnTcTpCk-KpQBM_adY5hL_RdQsgYwpAYmHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=OCe57d)
 
+  7. [video 7 - security - client sessions - final assignment help PT-1](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/ETpDY90zld9IkpzeO4DBS-sBa69QPgFR1O_C38ywJmP2Gw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=resWk4)
+
+  8. [video 8 - security - client sessions - final assignment help PT-2](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EVtN9fQIbFlDr188Ik0loDAB3zNmEGV2Sw8_tE-Nt5PGSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=vT3Muy)
+
 ## Assignments (50%)
 
 |                                                                                | Due Date     | Weight |
