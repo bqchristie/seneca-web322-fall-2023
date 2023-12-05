@@ -1,9 +1,5 @@
 # WEB322 - Assignment Five
 
-## DRAFT
-
-**I am still working on this but wanted to put it out there in case you want to get started early**
-
 ## Objective
 
 The purpose of this final assignment is to tie everything you've done together and make it live!
@@ -16,8 +12,8 @@ The purpose of this final assignment is to tie everything you've done together a
 3.  Create a project and connect it to the main branch of your repository.
 4.  Deploy the app.
 5.  When you have the url generated for your app please add the url as a link in your readme file. To create a link in a mrakdown file use this format. Please make this the very lasy line in your readme.md
-
-`[My Application](https://[your-url])` 6. Verify that the application is up and running.
+    `[My Application](https://[your-url])`
+6.  Verify that the application is up and running.
 
 ## Part Two
 
@@ -35,7 +31,7 @@ I will approach this like an end user. It either works or it doesn't. The only r
 
 1. I will go to your repostory and find in the link to your app in the README in the main branch of your repository.
 2. I will click the link that should bring me to your login page.
-3. I will login with credentials admin/password. which should take me to the users page.
+3. I will login with credentials **admin/password**. which should take me to the users page.
 4. At the top of the page I should see links to both teh products page and the users page.
 5. From there i will click on a single user
 6. I will post a user to your api and go back to the list to see if is there.
