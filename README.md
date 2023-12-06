@@ -51,6 +51,19 @@ Each week I will try to add some notes on what we covered in class/lab and provi
 
   8. [video 8 - security - client sessions - final assignment help PT-2](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EVtN9fQIbFlDr188Ik0loDAB3zNmEGV2Sw8_tE-Nt5PGSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=vT3Muy)
 
+- Week Thirteen [notes](./notes/week-thirteen/README.md)
+
+  1. [video 1 - whats on the last quiz and overview of project](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EXj7dpLO3_xCm2WOlGsJbE0B9hNRK7biwzuvLJTxdJzWow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7rUxNS)
+  2. [video 2- setting up and connecting github to Cyclic](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/Ebr-BcqHXd1OjGZgb94p1WgBW7p9Od18IPMRvmY-C_Nd5A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NXU51i)
+  3. [video 3 - adding the links you need for the project](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EVB2SqzPg81MprA7W-Gj63wBSkk08uliPFcdOg1c8O3YGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lLeeav)
+  4. [video 4 - Authentication (Hardcoded!) ](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZ_7yFc9u59BjBXxxOOIZ-sBAqYeFaSttm6iZU5BRKwxgQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YLfpCo)
+  5. [video 5 - me fumbling authentication doh!](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZ_7yFc9u59BjBXxxOOIZ-sBAqYeFaSttm6iZU5BRKwxgQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=W8Q5s0)
+  6. [video 6 - get authentication middleware and sessions working](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EcNfETwm-EFNlwE1_ajmA7UBruJUwBMVMTkjd7TAFVZOrw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HPyFDy)
+
+  7. [video 7 - target certain routes](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/EZ0HNKvsOplNhe5xSb4rEcIBGkRMF8q7Wfk2dKajHylEGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pzIOqd)
+
+  8. [video 8 - wrapping up](https://seneca-my.sharepoint.com/:v:/g/personal/bruce_christie_senecacollege_ca/Eb16fr-hwxBCptqIgY8eXBsBu4BP7yXYfyiQ2WvUQ9pfAA?e=8GncWi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Assignments (50%)
 
 |                                                                        | Due Date     | Weight |

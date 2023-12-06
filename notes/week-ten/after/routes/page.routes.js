@@ -8,13 +8,18 @@ pageRoutes.get("/", (req, res) => {
 });
 
 pageRoutes.post("/", (req, res) => {
-  const authentication = AuthenticationService.authenticate(null, null);
-  if (authentication.isAutheticated) res.redirect(`/list`);
-  else res.redirect("/");
+  const { username, password } = req.body;
+  const authentication = AuthenticationService.authenticate(username, password);
+  if (authentication.isAuthenticated) {
+    req.session.auth = authentication;
+    res.redirect(`/users`);
+  } else {
+    res.redirect("/");
+  }
 });
 
-pageRoutes.get("/list", (req, res) => {
-  const users = UsersService.find();
+pageRoutes.get("/users", async (req, res) => {
+  const users = await UsersService.findAll();
 
   const itemsToDisplay = 15;
   const page = parseInt(req.query?.page) || 1;
@@ -22,8 +27,8 @@ pageRoutes.get("/list", (req, res) => {
   const end = start + itemsToDisplay;
   const filteredUsers = users.filter((user, idx) => idx > start && idx <= end);
 
-  res.render("list", {
-    title: "list",
+  res.render("users", {
+    title: "users",
     users: filteredUsers,
     itemsToDisplay,
     page,
@@ -32,9 +37,9 @@ pageRoutes.get("/list", (req, res) => {
   });
 });
 
-pageRoutes.get("/detail/:id", (req, res) => {
+pageRoutes.get("/users/:id", (req, res) => {
   const user = UsersService.findById(req.params.id);
-  res.render("detail", { user });
+  res.render("user", { user });
 });
 
 module.exports = pageRoutes;
